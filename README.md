@@ -1,1 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerGabeller-ml)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RogerGabeller-ml&theme=vue-dark)](https://github.com/RogerGabeller-ml?tab=repositories)
+[![Popular Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerGabeller-ml&langs_count=4&layout=compact&theme=vue-dark)](https://github.com/RogerGabeller-ml)
