@@ -1,4 +1,4 @@
-# RogerGabeller's Github
+# George Barrell's Github
 
 Hello World! look at these snazy stats..
 
